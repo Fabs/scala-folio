@@ -1,4 +1,6 @@
-## Coding
+# Coding
+
+## Programming Challenges
 
 * [AOC Code](https://github.com/Fabs/scala-aoc)
 * [Leet Code](https://github.com/Fabs/scala-leet)
@@ -7,6 +9,15 @@
 - [ ] 10 leet-code
 - [x] 1 leet-code
 - [x] 1 advent of code
+
+## Exercises
+
+* [ ] [A mini Java Compiler](https://github.com/Fabs/scala-scala-mini-java-compiler)
+  (Note: Doing Part 1)
+
+## Creations
+
+* [ ] Something with Scalatra going up...
 
 ## Type Level Programming
 - [ ] [An intro to type level programming in scala (videos 1 and 2)](https://www.youtube.com/watch?v=qwUYqv6lKtQ)
