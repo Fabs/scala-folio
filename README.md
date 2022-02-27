@@ -8,6 +8,9 @@
 - [x] 1 leet-code
 - [x] 1 advent of code
 
+## Type Level Programming
+- [ ] [An intro to type level programming in scala (videos 1 and 2)](https://www.youtube.com/watch?v=qwUYqv6lKtQ)
+
 ## Scala3
 
 - [ ] [Getting Started with Scala 3](https://docs.scala-lang.org/scala3/getting-started.html)
