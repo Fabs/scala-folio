@@ -24,7 +24,6 @@
 
 ## Scala3
 
-<<<<<<< HEAD
 - [ ] [Getting Started with Scala 3](https://docs.scala-lang.org/scala3/getting-started.html)
 
 ## Scala Best Practices
@@ -35,8 +34,12 @@
 
 - [ ] [Purely Function Data Structure](https://www.amazon.co.jp/Purely-Functional-Data-Structures-English-ebook)
 - [ ] [Pearls of Functional Algorithm Design](https://www.amazon.com/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)
-||||||| parent of fb6e405 (Fix typo)
-- [ ] [Getting Started with Scala 3](https://docs.scala-lang.org/scala3/getting-started.html)
-=======
-- [ ] [Getting Started with Scala 3](https://docs.scala-lang.org/scala3/getting-started.html)
->>>>>>> fb6e405 (Fix typo)
+
+
+## Catalog
+
+- [scala-folio]((https://github.com/Fabs/scala-folio) This Project
+- [scala-wordle-answer](https://github.com/Fabs/scala-wordle-answer) An API that gives the daily wordle answer
+- [scala-mini-java-compiler](https://github.com/Fabs/scala-mini-java-compiler) Exercises of the compiler book
+- [scala-leet](https://github.com/Fabs/scala-leet) Leet code in scala
+- [scala-aoc](https://github.com/Fabs/scala-aoc) Advent of code in scala 
