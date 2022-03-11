@@ -7,6 +7,10 @@
 
 - [ ] 2015 advent-code
 - [ ] 10 leet-code
+- [ ] 10 euler
+- [ ] 10 Scala Puzzlers
+- [ ] 1 Scala Puzzler
+- [ ] 1 Euler
 - [x] 1 leet-code
 - [x] 1 advent of code
 
@@ -14,6 +18,7 @@
 
 * [ ] [A mini Java Compiler](https://github.com/Fabs/scala-scala-mini-java-compiler)
   (Note: Doing Part 1)
+* [ ] [IoT management platform](https://www.manning.com/liveprojectseries/iot-management-vertx-ser)
 
 ## Creations
 
@@ -35,11 +40,13 @@
 - [ ] [Purely Function Data Structure](https://www.amazon.co.jp/Purely-Functional-Data-Structures-English-ebook)
 - [ ] [Pearls of Functional Algorithm Design](https://www.amazon.com/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)
 
-
 ## Catalog
 
 - [scala-folio]((https://github.com/Fabs/scala-folio) This Project
+- [tapestry](https://github.com/Fabs/tapestry) A playground for designing a framework (yeah generic!!)
 - [scala-wordle-answer](https://github.com/Fabs/scala-wordle-answer) An API that gives the daily wordle answer
 - [scala-mini-java-compiler](https://github.com/Fabs/scala-mini-java-compiler) Exercises of the compiler book
 - [scala-leet](https://github.com/Fabs/scala-leet) Leet code in scala
 - [scala-aoc](https://github.com/Fabs/scala-aoc) Advent of code in scala 
+- [scala-puzzlers](https://github.com/Fabs/scala-puzzlers) Advent of code in scala 
+- [scala-euler](https://github.com/Fabs/scala-euler) Advent of code in scala 
