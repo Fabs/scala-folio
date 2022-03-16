@@ -39,6 +39,7 @@
 
 - [ ] [Purely Function Data Structure](https://www.amazon.co.jp/Purely-Functional-Data-Structures-English-ebook)
 - [ ] [Pearls of Functional Algorithm Design](https://www.amazon.com/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)
+- [ ] [Artificial Inteligence a Modern Approach](https://www.amazon.co.jp/-/en/Stuart-Russell/dp/0134610997/ref=pd_lpo_1?pd_rd_i=0134610997&psc=1)
 
 ## Catalog
 
